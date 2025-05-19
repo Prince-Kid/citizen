@@ -1,0 +1,123 @@
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T21:53:33.598Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T21:53:35.271Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T21:59:20.906Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T21:59:22.627Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T21:59:36.752Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T21:59:38.266Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:00:10.589Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T22:00:11.928Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:01:33.040Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T22:01:34.764Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:02:19.255Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T22:02:20.725Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:20:52.448Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T22:20:55.838Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:21:58.099Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T22:22:00.611Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:22:48.333Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T22:22:50.766Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:24:05.937Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T22:24:07.695Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:25:18.618Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T22:25:20.274Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:34:20.645Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T22:34:22.163Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:35:06.355Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T22:35:08.048Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:38:24.314Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T22:38:25.816Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:39:39.127Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T22:39:40.915Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T22:52:30.372Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T22:52:31.811Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:00:25.564Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:00:27.081Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:01:37.781Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:01:41.231Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:08:49.855Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:08:51.219Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:13:28.304Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:13:29.929Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:16:01.495Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:16:03.161Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:19:25.300Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:19:26.804Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:23:51.174Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T23:23:52.858Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:25:51.976Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:25:53.491Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:36:00.360Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T23:36:01.756Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:38:27.151Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:38:28.740Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:39:13.712Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:39:14.960Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:41:33.273Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:41:34.890Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:45:25.279Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T23:45:26.800Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:46:51.131Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:46:52.799Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:47:17.123Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:47:18.428Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:48:25.316Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-18T23:48:26.700Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:49:22.843Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:49:24.111Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:52:18.512Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:52:39.156Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T23:52:40.464Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:53:59.875Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-18T23:54:01.379Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:56:33.073Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:56:34.890Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-18T23:59:47.209Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-18T23:59:48.923Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:00:14.740Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-19T00:00:16.127Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:02:05.136Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-19T00:02:06.662Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:03:46.797Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-19T00:03:48.778Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:05:01.727Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-19T00:05:03.598Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:06:35.932Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-19T00:06:37.760Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:07:27.452Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-19T00:07:29.190Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:08:33.953Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-19T00:08:35.644Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:10:29.868Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-19T00:10:31.854Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:10:54.127Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-19T00:10:55.660Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:12:16.878Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-19T00:12:18.434Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:16:04.106Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-19T00:16:06.190Z"}
+{"level":"info","message":"Connected to database: citizenDB","timestamp":"2025-05-19T00:16:06.918Z"}
+{"level":"info","message":"Available collections: users, complaints","timestamp":"2025-05-19T00:16:06.921Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:17:06.130Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8wvxb.mongodb.net","timestamp":"2025-05-19T00:17:08.105Z"}
+{"level":"info","message":"Connected to database: citizenDB","timestamp":"2025-05-19T00:17:08.847Z"}
+{"level":"info","message":"Available collections: users, complaints","timestamp":"2025-05-19T00:17:08.849Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:17:44.292Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-19T00:17:45.867Z"}
+{"level":"info","message":"Connected to database: citizenDB","timestamp":"2025-05-19T00:17:46.588Z"}
+{"level":"info","message":"Available collections: users, complaints","timestamp":"2025-05-19T00:17:46.605Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:19:41.837Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-19T00:19:43.689Z"}
+{"level":"info","message":"Connected to database: citizenDB","timestamp":"2025-05-19T00:19:44.603Z"}
+{"level":"info","message":"Available collections: users, complaints","timestamp":"2025-05-19T00:19:44.605Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:20:30.836Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8wvxb.mongodb.net","timestamp":"2025-05-19T00:20:32.216Z"}
+{"level":"info","message":"Connected to database: citizenDB","timestamp":"2025-05-19T00:20:32.953Z"}
+{"level":"info","message":"Available collections: users, complaints","timestamp":"2025-05-19T00:20:32.957Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:23:13.856Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-19T00:23:15.586Z"}
+{"level":"info","message":"Connected to database: citizenDB","timestamp":"2025-05-19T00:23:16.293Z"}
+{"level":"info","message":"Available collections: users, complaints","timestamp":"2025-05-19T00:23:16.298Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-19T00:26:09.015Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-00.8wvxb.mongodb.net","timestamp":"2025-05-19T00:26:10.605Z"}
+{"level":"info","message":"Connected to database: citizenDB","timestamp":"2025-05-19T00:26:11.387Z"}
+{"level":"info","message":"Available collections: users, complaints","timestamp":"2025-05-19T00:26:11.391Z"}
